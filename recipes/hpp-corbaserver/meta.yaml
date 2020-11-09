@@ -23,8 +23,8 @@ requirements:
     - pkg-config
     - doxygen
   host:
-    - boost
-    - boost-cpp
+    - boost 1.72
+    - boost-cpp 1.72
     - tinyxml
     - hpp-fcl
     - hpp-util
@@ -35,15 +35,15 @@ requirements:
     - hpp-template-corba
     - omniorb
     - omniorbpy
-    - python
+    - python 3.6
   run:
-    - boost
-    - boost-cpp
+    - boost 1.72
+    - boost-cpp 1.72
     - tinyxml
     - omniorb
     - omniorbpy
     - numpy
-    - python
+    - python 3.6
 
 test:
   requires:

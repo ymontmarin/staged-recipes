@@ -26,11 +26,11 @@ requirements:
     - hpp-util
     - omniorb
     - omniorbpy
-    - python
+    - python 3.6
   run:
     - omniorb
     - omniorbpy
-    - python
+    - python 3.6
 
 test:
   requires:

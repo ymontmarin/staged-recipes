@@ -25,7 +25,7 @@ requirements:
     - pkg-config
     - doxygen
   host:
-    - boost-cpp
+    - boost-cpp 1.72
     - tinyxml
     - urdfdom
     - assimp
@@ -38,7 +38,7 @@ requirements:
     - hpp-core
     - hpp-manipulation
   run:
-    - boost-cpp
+    - boost-cpp 1.72
     - tinyxml
 
 test:

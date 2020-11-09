@@ -23,8 +23,8 @@ requirements:
     - pkg-config
     - doxygen
   host:
-    - boost
-    - boost-cpp
+    - boost 1.72
+    - boost-cpp 1.72
     - tinyxml
     - urdfdom
     - assimp
@@ -41,15 +41,15 @@ requirements:
     - hpp-corbaserver
     - omniorb
     - omniorbpy
-    - python
+    - python 3.6
   run:
-    - boost
-    - boost-cpp
+    - boost 1.72
+    - boost-cpp 1.72
     - tinyxml
     - omniorb
     - omniorbpy
     - numpy
-    - python
+    - python 3.6
 
 test:
   requires:

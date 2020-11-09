@@ -23,7 +23,7 @@ requirements:
     - pkg-config
     - doxygen
   host:
-    - boost-cpp
+    - boost-cpp 1.72
     - tinyxml
     - eigen
     - urdfdom
@@ -35,7 +35,7 @@ requirements:
     - pinocchio
     - example-robot-data
   run:
-    - boost-cpp
+    - boost-cpp 1.72
     - tinyxml
     - eigen
 
