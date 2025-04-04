@@ -51,8 +51,8 @@ about:
   summary: 'Candlewick: a WIP renderer based on SDL_gpu'
   description: |
     Candlewick comes with a set of graphical, interaction, and utility features such as
-    Shadow mapping using directional shadow maps, Screen-space ambient occlusion (SSAO)
-    , Screen-space shadows (SSS), Integration with ImGui
+    Shadow mapping using directional shadow maps, Screen-space ambient occlusion
+    (SSAO), integration with ImGui.
   license: BSD-2-Clause
   license_family: BSD
   license_file: LICENSE
